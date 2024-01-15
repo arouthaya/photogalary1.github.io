@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(21, 37, 31);
+    margin:25px;
+}
+
+.TITLEBAR{background-image: -moz-linear-gradient();
+    color: coral;
+    color-interpolation-filters: linearRGB;
+    text-align: center;
+    padding: 10px;
+    margin:15px;
+}
+.images1{
+    background-color: rgb(32, 105, 109);
+    padding: 5px;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    margin-top:25px;
+    
+    justify-content: center;
+
+}
+
+    
+   
+.images2{
+    background-color: rgb(94, 25, 71);
+    padding: 5px;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    margin-top:25px;
+    
+    justify-content: center;
+
+}
+
+.images3{
+    background-color: rgb(29, 143, 23);
+    padding: 5px;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    margin-top:25px;
+    
+    justify-content: center;
+
+}
+.images4{
+    background-color: rgb(81, 43, 146);
+    padding: 5px;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    margin-top:25px;
+    
+    justify-content: center;
+
+}
+.images5{
+    background-color: rgb(140, 158, 27);
+    padding: 5px;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    margin-top:25px;
+    
+    justify-content: center;
+
+}
